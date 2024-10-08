@@ -1,0 +1,1 @@
+# plugins-swiftninjapro-inspect-element-console-blocker
